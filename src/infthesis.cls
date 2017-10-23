@@ -164,6 +164,7 @@ Processing}}
     \@infschool \\ \@university}
     \setboolean{strict}{true}}
 \DeclareOption{phdproposal}{\@researchdegree{PhD Proposal}}
+\DeclareOption{phdreport}{\@researchdegree{PhD Report}}
 \DeclareOption{phd}{\@researchdegree{Doctor of Philosophy}}
 \DeclareOption{mphil}{\@researchdegree{Master of Philosophy}}
 \DeclareOption{mscres}{\@researchdegree{Master of Science by Research}}
